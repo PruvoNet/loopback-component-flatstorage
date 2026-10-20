@@ -1,6 +1,6 @@
 {
   "name": "loopback-component-flatstorage",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "loopback component for attaching to various cloud storage providers with ACL functionality",
   "main": "index.js",
   "files": [
