@@ -36,15 +36,15 @@
   },
   "homepage": "https://github.com/PruvoNet/loopback-component-flatstorage#readme",
   "dependencies": {
-    "formidable": "^1.1.1",
-    "loopback-connector": "4.8.0",
+    "formidable": "^3.5.4",
+    "loopback-connector": "8.0.3",
     "pkgcloud": "^2.2.0",
     "string_decoder": "^1.0.3",
-    "strong-globalize": "^2.10.0",
+    "strong-globalize": "^6.0.6",
     "underscore": "^1.8.3",
-    "uuid": "^3.2.1"
+    "uuid": "^14.0.3"
   },
   "devDependencies": {
-    "loopback-datasource-juggler": "^2.59.3"
+    "loopback-datasource-juggler": "^7.0.4"
   }
 }
